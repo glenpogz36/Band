@@ -1,0 +1,39 @@
+body{
+  background-color:black;
+}
+.img {
+  width: 400px;
+  height: 400px;
+}
+h1{
+  color:red;
+  text-align: center;
+  font-size: 72px;
+}
+.sidebar {
+  width: 30%;
+  float: right;
+  background-color: yellow;
+  color:black;
+}
+.column {
+  width: 33%;
+  float: left;
+  color:white;
+}
+.column2 {
+  color:green;
+  font-size: 30px
+}
+.img2 {
+  width: 600px;
+  height: 500px;
+  float: right;
+}
+
+.name{
+  font-family:cursive;
+  color: yellow;
+  font-style: italic;
+  
+}
